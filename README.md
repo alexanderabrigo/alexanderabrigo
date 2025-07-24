@@ -19,7 +19,7 @@
 
 [![Martins github stats](https://github-readme-stats.vercel.app/api?username=yohannesjho&theme=gradien&count_private=true&show_icons=true&icon_color=343D46&bg_color=bg_color=180,2AD1FE,F47468&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Martins's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesjho&themegradient&bg_color=bg_color=180,2AD1FE,F47468&title_color=fff&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![Martins's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jooman21&themegradient&bg_color=bg_color=180,2AD1FE,F47468&title_color=fff&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Fun Fact
