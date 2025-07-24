@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander, a Full Stack Web Developer </h1>
+<h1 align="center">Hi 👋, I'm Yohannes, a Full Stack Web Developer </h1>
 <h2 align="center">Python | Django | React | Node.js | MongoDB | Git </h2>
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benjamin Franklin
@@ -17,7 +17,7 @@
 🔧 Git |  Github | Gitlab | Linux | Mac | Win
 
 
-[![Martins github stats](https://github-readme-stats.vercel.app/api?username=yohannesjho&theme=gradien&count_private=true&show_icons=true&icon_color=343D46&bg_color=bg_color=180,2AD1FE,F47468&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Martins github stats](https://github-readme-stats.vercel.app/api?username=jooman21&theme=gradien&count_private=true&show_icons=true&icon_color=343D46&bg_color=bg_color=180,2AD1FE,F47468&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Martins's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jooman21&themegradient&bg_color=bg_color=180,2AD1FE,F47468&title_color=fff&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
