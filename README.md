@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yohannes, a Full Stack Web Developer </h1>
+<h1 align="center">Hi 👋, I'm a Full Stack Web Developer </h1>
 <h2 align="center">Python | Django | React | Node.js | MongoDB | Git </h2>
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benjamin Franklin
