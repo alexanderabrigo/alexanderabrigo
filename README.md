@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm a Full Stack Web Developer </h1>
-<h2 align="center">Python | Django | React | Node.js | MongoDB | Git </h2>
+<h2 align="center">Python | Django | React | Node.js | Ruby on Rails | MongoDB | Git </h2>
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benjamin Franklin
 > &nbsp;
 
 ## About me
-🧑‍💻 I'm from Texas, US and currently working as a Web Developer.\
+🧑‍💻 I'm from US and currently working as a Web Developer.\
 🛠️ I've always had a soft spot for computers and the drive to learn new software.\
 💡 I love to solve problems with my technical knowledge and enjoy the challenge of finding elegant solutions to complex issues.\
 💬 Let's get in touch and talk about programming and ideas.  
 
 ## Tech Stack
 🌐 HTML | CSS | JavaScript | React |  Next  | Node.js | Express | Cypress | Storybook\
-💻 Django | Spring Boot | Python | Flask | Docker\
+💻 Django | Spring Boot | Python | Flask | Ruby on Rails | Docker\
 🛢 MongoDB\
 🔧 Git |  Github | Gitlab | Linux | Mac | Win
 
